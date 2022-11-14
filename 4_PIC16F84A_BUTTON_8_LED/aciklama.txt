@@ -1,0 +1,8 @@
+A portunun 3.pinine bağlı olan bir buton olsun
+B portunun tüm pinlerine bağlı olan 8 tane led olsun 
+Butona basıldığında RB0 dan başlayan ve her basıldığında bir sonraki pinde 
+bulunan Led'i yakan 8 led tamamen yandıktan sonra 9. basışta bütün ledleri teker teker 
+gecikmeli olarak söndüren bir proje oluşturunuz
+Mikrodenetleyici üzerinde bir resetleme butonu olsun ve istediğinizde mikrodenetleyicinizi 
+resetleyebileceğiniz bir bağlantı noktası oluşturunuz
+Osilatör olarak harici bir osilatör kullanın ve çalışma frekansı 4MHZ olsun.
