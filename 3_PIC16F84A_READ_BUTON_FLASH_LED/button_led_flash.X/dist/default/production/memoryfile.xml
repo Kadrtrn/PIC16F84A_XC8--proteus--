@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\button_led_flash.X.production.hex">
+    <memory name="program">
+      <units>words</units>
+      <length>1024</length>
+      <used>13</used>
+      <free>1011</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>68</length>
+      <used>2</used>
+      <free>66</free>
+    </memory>
+  </executable>
+</project>

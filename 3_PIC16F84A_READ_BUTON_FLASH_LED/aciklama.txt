@@ -1,0 +1,6 @@
+A portunun 2.pinine bağlı olan bie lediniz olsun.  // yani ikinci pini output yap 
+B portunun 1.pinine bağlı olan bir butonunuz olsun. //birinci pini dijital input yap 
+Butona basıldığında LED yakılsın,butona basılmadığında LED sönük durumda olsun.
+Mikrodenetleyiciniz üzerinde bir resetleme butonu olsun ve istediğiniz zaman mikrodenetleyicinizi
+resetleyebileceğiniz bir bağlantı noktası oluşturunuz.
+Osilatör olarak harici bir osilatör kullanın ve çalışma frekansı 4MHZ olsun.
