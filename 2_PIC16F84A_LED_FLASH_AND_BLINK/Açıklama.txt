@@ -1,0 +1,5 @@
+B portunun 0. pinine bağlı olan bir lediniz olsun.
+Bu led her 500 ms de bir aç kapa yapsın.
+Mikrodenetleyiciniz üzerinde bir resetleme butonu olsun ve istediğiniz zaman mikrodenetleyicinizi 
+resetleyeceğiniz bir bağlantı noktası oluşturun.
+Osilatör olarak harici bir osilatör kullanın ve çalışma frekansı 4MHZ olsun.
