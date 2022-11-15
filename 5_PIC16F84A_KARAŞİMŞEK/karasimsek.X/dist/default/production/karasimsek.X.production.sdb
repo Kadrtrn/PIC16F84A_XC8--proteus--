@@ -1,0 +1,28 @@
+[p GLOBOPT AUTOSTATIC PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F84A ]
+[d frameptr 0 ]
+"62 C:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"18 C:\Users\kadir\OneDrive\Masaüstü\PIC_örnekler\5_PIC16F84A_KARAÞÝMÞEK\karasimsek.X\main.c
+[v _main main `(v  1 e 1 0 ]
+"211 C:\Program Files\Microchip\xc8\v2.36\pic\include\proc\pic16f84a.h
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"499
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"18 C:\Users\kadir\OneDrive\Masaüstü\PIC_örnekler\5_PIC16F84A_KARAÞÝMÞEK\karasimsek.X\main.c
+[v _main main `(v  1 e 1 0 ]
+{
+"29
+[v main@i_36 i `uc  1 a 1 3 ]
+"24
+[v main@i i `uc  1 a 1 2 ]
+"34
+} 0

@@ -1,0 +1,3 @@
+B portunun 0. pininden 7. pinine kadar 8 adet LED bağlayın.
+Ledler karaşimşek mantığı ile çalışsın ve her LED arası 100ms olarak belirlensin.
+Harici olarak kristal osilatör bağlansın ve frekans değeri 4MHZ olarak belirlensin.
