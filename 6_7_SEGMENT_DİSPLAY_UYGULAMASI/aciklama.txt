@@ -1,0 +1,6 @@
+PIC16F84A ile ortak katot uçlu 7 segment D isplay Projesi hazırlayın.
+7 segment Displayin "a" ucundan "g" ucuna kadar olan uçları,
+PIC16F84A'nın B Portunun 0. bitinden 6. bitine kadar bağlayın.
+7 Segment Display DP ucunu kullanmayın ve bu ledin hiç yanmaması için önlem alın.
+7 Segment Display her 1 sn de bir 0 dan başlayarak 9'a kadar sayacak şekilde 10 sn lik bir uygulama hazırlayınız.
+4 MHZ lik harici kristal osilatör ile çalıştırın.
