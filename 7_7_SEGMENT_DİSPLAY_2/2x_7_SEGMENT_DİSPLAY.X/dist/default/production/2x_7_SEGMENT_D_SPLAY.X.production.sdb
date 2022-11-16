@@ -1,0 +1,38 @@
+[p GLOBOPT AUTOSTATIC PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F84A ]
+[d frameptr 0 ]
+"62 C:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"19 C:\Users\kadir\OneDrive\Masaüstü\PIC_örnekler\7_7_SEGMENT_DÝSPLAY_2\2x_7_SEGMENT_DÝSPLAY.X\main.c
+[v _main main `(v  1 e 1 0 ]
+"167 C:\Program Files\Microchip\xc8\v2.36\pic\include\proc\pic16f84a.h
+[v _PORTA PORTA `VEuc  1 e 1 @5 ]
+"211
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"455
+[v _TRISA TRISA `VEuc  1 e 1 @133 ]
+"499
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"661
+[v _RA0 RA0 `VEb  1 e 0 @40 ]
+"664
+[v _RA1 RA1 `VEb  1 e 0 @41 ]
+"18 C:\Users\kadir\OneDrive\Masaüstü\PIC_örnekler\7_7_SEGMENT_DÝSPLAY_2\2x_7_SEGMENT_DÝSPLAY.X\main.c
+[v _rakamlar rakamlar `[10]uc  1 e 10 0 ]
+"19
+[v _main main `(v  1 e 1 0 ]
+{
+"27
+[v main@j j `uc  1 a 1 3 ]
+"26
+[v main@i i `uc  1 a 1 2 ]
+"36
+} 0

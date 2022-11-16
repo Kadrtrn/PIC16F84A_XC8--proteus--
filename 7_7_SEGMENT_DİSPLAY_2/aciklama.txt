@@ -1,0 +1,8 @@
+PIC16F84A mikrodenetleyicisi ile ortak katot uçlu 2 adet 7 Segment Display Projesi hazırlayın.
+7 Segment Displaylerin "a" ucundan "g" ucuna kadar olan uçlarını B Portunun 0.bitinden 6.bitine kadar bağlayın.
+7 Segment Displayin DP ucunu kullanmayın.(zaten proteus ta yok)
+7 Segment Displayin her 100 ms de bi 0 dan başlayarak 99 a kadar sayacak şekilde 10 sn lik bir uygulama oluşturun.
+Mikrodenetleyicinizi 4MHZ lik harici kristal osilatör ile çalıştırın.
+NOT:16F84A 13 adet genel amaçlı giriş çıkış pinine sahiptir
+
+2 adet 7 segment display 14 tane pin ister bu kadar pin olamdığı için taram yöntemi kullanılacaktır
