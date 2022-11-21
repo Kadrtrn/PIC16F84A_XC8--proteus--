@@ -1,0 +1,4 @@
+Mikrodenetleyicinin B portunun 1.pine bağlı olan bir buton olsun.
+B Portunun 2. pinine 9v ile çalışan bir motor bağlayınız.(Anahtrlama devresi ile)
+Butondan alınan dijital sinyal ile motorun çalışma ve durdurma işlemlerini yapınız.
+Mikrodenetleyicinizi 4 MHz lik harici kristal osilatör ile çalıştırın.
