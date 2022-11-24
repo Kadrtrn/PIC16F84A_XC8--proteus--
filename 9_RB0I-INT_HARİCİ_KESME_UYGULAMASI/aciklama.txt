@@ -1,0 +1,10 @@
+PIC16F84A İLE Led ve Butondan oluşan bir proje hazırlayın
+
+Mikrodenetleyicinin B portunun 0. pinine bağlı olan bir buton olsun ve 
+bu pin üzerinden harici kesme takip edilsin 
+Butona basıldığında yükselen kenarda kesme gerçekleşsin
+
+B portunun 7.pininde led bağlı olsun ve kesme fonksiyonu çalıştırıldığında 
+led 1sn boyunca yansın.Kesme fonksiyonundan çıkıldıktan sonra led söndürülsün
+
+4 MHz lik bir harici osilatör kullanın
