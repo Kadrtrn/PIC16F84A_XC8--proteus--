@@ -1,0 +1,47 @@
+[p GLOBOPT AUTOSTATIC PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F84A ]
+[d frameptr 0 ]
+"62 C:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"17 C:\Users\kadir\Desktop\PIC_örnekler\10_PORTB_KESME_UYGULAMASI\PORTB_INTERRUPT_LED_CONTROL.X\newmain.c
+[v _PORTB_KESME PORTB_KESME `II(v  1 e 1 0 ]
+"32
+[v _main main `(v  1 e 1 0 ]
+"167 C:\Program Files\Microchip\xc8\v2.36\pic\include\proc\pic16f84a.h
+[v _PORTA PORTA `VEuc  1 e 1 @5 ]
+"211
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"307
+[v _INTCON INTCON `VEuc  1 e 1 @11 ]
+"455
+[v _TRISA TRISA `VEuc  1 e 1 @133 ]
+"499
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"634
+[v _GIE GIE `VEb  1 e 0 @95 ]
+"688
+[v _RB4 RB4 `VEb  1 e 0 @52 ]
+"691
+[v _RB5 RB5 `VEb  1 e 0 @53 ]
+"694
+[v _RB6 RB6 `VEb  1 e 0 @54 ]
+"697
+[v _RB7 RB7 `VEb  1 e 0 @55 ]
+"32 C:\Users\kadir\Desktop\PIC_örnekler\10_PORTB_KESME_UYGULAMASI\PORTB_INTERRUPT_LED_CONTROL.X\newmain.c
+[v _main main `(v  1 e 1 0 ]
+{
+"47
+} 0
+"17
+[v _PORTB_KESME PORTB_KESME `II(v  1 e 1 0 ]
+{
+"30
+} 0

@@ -1,0 +1,20 @@
+PORTB kesmesinin  oluşması için  PORTB'nin 4,5,6 ve 7. bitlerinin  en az birinde 
+lojik seviye değişikliği olması gerekir.
+
+PORTB kesme kaynağının kullanılabilmesi için;
+--PORTB'nin 4,5,6 ve 7. bitleri giriş olarak ayarlanmalı,
+--Global kesme yetkilendirme biti (GIE) 1 olarak ayarlanmalı,
+--PORTB kesmesi yetkilendirme biti (RBIE) 1 olarak ayarlanmalı.
+
+Bu şartlar altında PORTB kesmei oluştuğunda PORTB'nin 4,5,6 ve 7. 
+bitlerinden birinde lojik seviye değişikliği olduğunda otomatik olarak 
+PORTB kesme gösterge  biti (RBIF) 1 değerini alır.
+***********UYGULAMA******************
+B portunun 4,5,6 ve7. pinlerine buton bağlayalım.A portunun 0. pinine 
+1 led ve B portunun 1. pinine başka bir led bağlayalım.
+
+RB1'e bağladığımız led,kesme olmadığında 100ms aralıklarla yanıp sönsün.
+B portunun 4,5,6 ve 7. pinlerinden herhangi birinden bir kesme 
+oluşturulduğunda A portunun 0.pinine bağlı olan ledin 2sn boyunca yanacağı bir sistemi oluşturup,
+kodlamasını yapalım.
+
