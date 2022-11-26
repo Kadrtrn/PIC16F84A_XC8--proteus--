@@ -1,0 +1,5 @@
+Timer0'ı kullanarak 1 sn aralıklarla yanıp sönen led uygulaması yapınız.
+
+PIC16F84A mikrodenetleyicisinde bulunan TMR0 için  gerekli konfigurasyonları yapınız.
+
+B portunun 0 pinine bir led bağlayınız ve her 1 sn de bir ledi yakıp söndürünüz.

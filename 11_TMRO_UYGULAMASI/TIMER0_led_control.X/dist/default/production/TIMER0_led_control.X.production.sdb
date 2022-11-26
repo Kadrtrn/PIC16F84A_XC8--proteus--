@@ -1,0 +1,32 @@
+[p GLOBOPT AUTOSTATIC PIC14 PICREGULAR PICMID ]
+[d version 1.1 ]
+[d edition pro ]
+[d chip 16F84A ]
+[d frameptr 0 ]
+"62 C:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\common\float.c
+[v ___ftpack __ftpack `(f  1 e 3 0 ]
+"86 C:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\common\ftadd.c
+[v ___ftadd __ftadd `(f  1 e 3 0 ]
+"6 C:\Program Files\Microchip\xc8\v2.36\pic\sources\c90\pic\__eeprom.c
+[v ___eecpymem __eecpymem `(v  1 e 1 0 ]
+"39
+[v ___memcpyee __memcpyee `(v  1 e 1 0 ]
+"14 C:\Users\kadir\Desktop\PIC_örnekler\11_TMRO_UYGULAMASI\TIMER0_led_control.X\main.c
+[v _main main `(v  1 e 1 0 ]
+"60 C:\Program Files\Microchip\xc8\v2.36\pic\include\proc\pic16f84a.h
+[v _TMR0 TMR0 `VEuc  1 e 1 @1 ]
+"211
+[v _PORTB PORTB `VEuc  1 e 1 @6 ]
+"385
+[v _OPTION_REG OPTION_REG `VEuc  1 e 1 @129 ]
+"499
+[v _TRISB TRISB `VEuc  1 e 1 @134 ]
+"676
+[v _RB0 RB0 `VEb  1 e 0 @48 ]
+"13 C:\Users\kadir\Desktop\PIC_örnekler\11_TMRO_UYGULAMASI\TIMER0_led_control.X\main.c
+[v _sayac sayac `i  1 e 2 0 ]
+"14
+[v _main main `(v  1 e 1 0 ]
+{
+"35
+} 0
