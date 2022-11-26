@@ -1,0 +1,3 @@
+Timer0'ı kullanarak 500 msn aralıklarla yanıp sönen led uygulaması yapınız.
+PIC16F84A mikrodenetleyicisinde bulunan TMRO için gerekli konfigurasyonları yapınız.
+B portunun 0 pinine bir led bağlayınız ve her 500 msn de bir ledi yakıp döndürünüz.
